@@ -1,0 +1,38 @@
+# Dart e Flutter.
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# Configuracoes locais dos editores.
+.idea/
+*.iml
+.vscode/.flutter_devices
+
+# Arquivos locais das plataformas.
+android/.gradle/
+android/captures/
+android/local.properties
+android/key.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+*.jks
+*.keystore
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/Runner/GeneratedPluginRegistrant.*
+**/xcuserdata/
+
+# Sistema operacional.
+.DS_Store
+Thumbs.db
