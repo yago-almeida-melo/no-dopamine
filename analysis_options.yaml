@@ -2,6 +2,7 @@ analyzer:
   exclude:
     - build/**
     - android/**
+    - web/**
 
 linter:
   rules:
